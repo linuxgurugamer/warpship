@@ -1,5 +1,8 @@
 Changelog
 
+0.5.1.4
+	Updated version file to use github for new version info
+
 0.5.1.3
 	Thanks to github user @Grimmas:
 		fixed wrong squad model, wrong category, added restock support
